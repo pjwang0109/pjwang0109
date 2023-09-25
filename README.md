@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Chris 🙋‍♀️
 
-<!--
-**pjwang0109/pjwang0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+一位充滿熱情的工程師，致力於建立優秀的使用者體驗。我認為<strong>軟體開發不僅是一份工作，更是一門藝術</strong>
+<br>
+“A passionate engineer dedicated to building great user experiences. 
+<br>
+I think software development is <strong>not just a job, it’s an art.</strong>”
+<br>
+<br>
+🖥️ 學習經歷 learning experience
+<br>
+<a href="https://www.codecademy.com/profiles/pjwang0109">Codecademy Profile</a>
+<br>
+<br>
+🏆 IThome 鐵人賽
+<br>
+<a href="https://ithelp.ithome.com.tw/users/20162454/articles">前端開發 | 學習歷程</a>
+<br>
+<br>
+🙎‍♀️ 關於我 About Me
+<br>
+🌱 I'm continuing to learn about front-end and back-end and <strong>trying to sprout.</strong>
+<br>
+📥 liokyssz@gmail.com
