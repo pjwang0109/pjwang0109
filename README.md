@@ -12,7 +12,7 @@ I think software development is <strong>not just a job, it’s an art.</strong>�
 <a href="https://www.codecademy.com/profiles/pjwang0109">Codecademy Profile</a>
 <br>
 <br>
-🏆 IThome 鐵人賽
+🏆 2023 IThome 鐵人賽
 <br>
 <a href="https://ithelp.ithome.com.tw/users/20162454/articles">前端開發 | 學習歷程</a>
 <br>
