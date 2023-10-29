@@ -7,7 +7,12 @@
 I think software development is <strong>not just a job, it’s an art.</strong>”
 <br>
 <br>
-🖥️ 學習經歷 learning experience
+👩‍🦰 我的部落格 My blog
+<br>
+<a href="https://medium.com/@liuchris">My blog</a>
+<br>
+<br>
+🖥️ 學習經歷 Learning experience
 <br>
 <a href="https://www.codecademy.com/profiles/pjwang0109">Codecademy Profile</a>
 <br>
